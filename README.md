@@ -17,6 +17,8 @@ function nombreDeLaFuncion(){</br>
 
 1. Para instalar phpUnit: composer require --dev phpunit/phpunit
 2. Para correr el test: ./vendor/bin/phpunit tests/NombreDelArchivoDelTest.php
+3. Para este ejercicio no será necesario usar un servidor, por lo que no se requiere tener xampp o mamp encendido.
+
 
 ### Reglas
 
@@ -45,6 +47,7 @@ function functionName(){</br>
 ### Instructions
 1. To install phpUnit: composer require --dev phpunit/phpunit
 2. To run a test: ./vendor/bin/phpunit tests/TestFileName.php
+3. For this exercise it will not be necessary to use a server, so it's not required to have xampp or mamp turned on.
 
 ### Rules
 1. Start with the Functions.php file, once you have finished it move on to the Store.php file and finally complete the Item.php file exercise where you will start with object-oriented programming.
