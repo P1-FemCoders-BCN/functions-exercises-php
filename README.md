@@ -7,8 +7,8 @@
 - Además de aquellas funciones, puedes crear las tuyas propias para poder usarlas repetidamente dentro del programa, teniendo en cuenta que las funciones no se ejecutan automáticamente, para ello tendrás que llamar o ejecutar la función.
 Una función se declara empezando por la palabra <i>function</i> de la siguiente manera:
 
-function nombreDeLaFuncion(){
-  código a ser ejecutado
+function nombreDeLaFuncion(){</br>
+  código a ser ejecutado</br>
 };
 
 - El nombre de una función debe empezar con una letra o un guión bajo y puede recibir argumentos a través de parámetros. 
