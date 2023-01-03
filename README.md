@@ -22,7 +22,7 @@ function nombreDeLaFuncion(){</br>
 
 ### Reglas
 
-1. Empieza con el archivo Functions.php, una vez lo tengas terminado pasa al archivo Store.php y finalmente completa el ejercicio del archivo Item.php donde empezarás con programación orientada a objetos.
+1. Empieza con el archivo Functions.php, una vez lo tengas terminado pasa al archivo Store.php y finalmente completa el ejercicio del archivo Item.php
 2. Solo se debe escribir la función dentro de los archivos de la carpeta src.
 3. Puedes mirar lo que hay en los archivos de la carpeta tests pero no podrás modificarlos.
 4. Se deberán usar parámetros.
@@ -50,7 +50,7 @@ function functionName(){</br>
 3. For this exercise it will not be necessary to use a server, so it's not required to have xampp or mamp turned on.
 
 ### Rules
-1. Start with the Functions.php file, once you have finished it move on to the Store.php file and finally complete the Item.php file exercise where you will start with object-oriented programming.
+1. Start with the Functions.php file, once you have finished it move on to the Store.php file and finally complete the Item.php file exercise.
 2. The function should only be written inside the files in the src folder.
 3. You can see what's in the files in the tests folder but you shouldn't modify them.
 4. Parameters must be used.
