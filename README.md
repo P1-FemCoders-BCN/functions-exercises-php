@@ -3,15 +3,7 @@
 ## ES
 
 ### Introducción
-- PHP tiene más de 1000 funciones propias llamadas Built-in functions, puedes mirarlas <a href='https://www.w3schools.com/php/php_ref_overview.asp'>aquí.</a>
-- Además de aquellas funciones, puedes crear las tuyas propias para poder usarlas repetidamente dentro del programa, teniendo en cuenta que las funciones no se ejecutan automáticamente, para ello tendrás que llamar o ejecutar la función.
-- Una función se declara empezando por la palabra <i>function</i> de la siguiente manera:
-
-function nombreDeLaFuncion(){</br>
-  código a ser ejecutado;</br>
-};
-
-- El nombre de una función debe empezar con una letra o un guión bajo y puede recibir argumentos a través de parámetros. 
+Este es un ejercicio básico de PHP para aprender a hacer funciones, empleando condicionales, bucles y operadores. Dentro de la carpeta src se encuentran 3 archivos con una serie de instrucciones que te permitirá pasar los tests que se encuentran en la carpeta tests, dentro de cada archivo de test están las aserciones que queremos que pasen cuando se ejecuten las funciones que tú vas a escribir. Será necesario que instales phpunit con composer para poder ejecutar el script que te permitirá correr el test de cada archivo. Pasa el test y mira la consola que te dirá cuál es el error, y así, puedas escribir correctamente tu código. El objetivo será que puedas pasar los tests de los 3 archivos.
 
 ### Instrucciones
 
@@ -33,16 +25,7 @@ function nombreDeLaFuncion(){</br>
 ## EN
 
 ### Introduction
-- PHP has over 1000 built-in functions, you can take a look at them <a href='https://www.w3schools.com/php/php_ref_overview.asp'>here.</a>
-- In addition to those functions, you can create your own to be able to use them repeatedly within the program, taking into account that the functions are not executed automatically, for this you will have to call or execute the function.
-- A function is declared starting with the keyword <i>function</i> as follows:
-
-function functionName(){</br>
-  code to be executed;</br>
-};
-
-- A function name must start with a letter or an underscore and can receive arguments via parameters.
-
+This is a basic PHP exercise to learn how to make functions, using conditionals, loops, and operators. Inside the src folder there are 3 files with a series of instructions that will allow you to pass the tests found in the tests folder, inside each test file are the assertions that we want to pass when the functions that you write are executed. You will need to install phpunit with composer in order to run the script that will allow you to run the test for each file. Pass the test and see the console that will tell you what the error is, so you can write your code correctly. The objective will be that you can pass the tests of the 3 files.
 
 ### Instructions
 1. To install phpUnit: composer require --dev phpunit/phpunit
