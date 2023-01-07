@@ -8,8 +8,9 @@ Este es un ejercicio básico de PHP para aprender a hacer funciones, empleando c
 ### Instrucciones
 1. git clone <repositorio> (el proyecto deberá estar dentro de la carpeta htdocs de xampp o mamp).
 2. Para instalar phpUnit: composer require --dev phpunit/phpunit
-3. Para correr el test: ./vendor/bin/phpunit tests/NombreDelArchivoDelTest.php
-4. Para este ejercicio no será necesario usar un servidor, por lo que no se requiere tener xampp o mamp encendido para hacer correr los tests, sin embargo, hay un archivo index.php con información en la que te puedes apoyar, por lo que tener el servidor encendido es requerido.
+3. Para instalar composer: composer i
+4. Para correr el test: ./vendor/bin/phpunit tests/NombreDelArchivoDelTest.php
+5. Para este ejercicio no será necesario usar un servidor, por lo que no se requiere tener xampp o mamp encendido para hacer correr los tests, sin embargo, hay un archivo index.php con información en la que te puedes apoyar, por lo que tener el servidor encendido es requerido.
 
 
 ### Reglas
@@ -29,8 +30,9 @@ This is a basic PHP exercise to learn how to make functions, using conditionals,
 ### Instructions
 1. git clone <repository> (the folder has to be inside the htdocs folder of xampp or mamp).  
 2. To install phpUnit: composer require --dev phpunit/phpunit
-3. To run a test: ./vendor/bin/phpunit tests/TestFileName.php
-4. For this exercise it will not be necessary to use a server, so it's not required to have xampp or mamp turned on for running the tests, however, there is an index.php file with information you can rely on, so having the server turned on is required.
+3. To install composer: composer i
+4. To run a test: ./vendor/bin/phpunit tests/TestFileName.php
+5. For this exercise it will not be necessary to use a server, so it's not required to have xampp or mamp turned on for running the tests, however, there is an index.php file with information you can rely on, so having the server turned on is required.
 
 ### Rules
 1. Start with the Functions.php file, once you have finished it move on to the Store.php file and finally complete the Item.php file exercise.
